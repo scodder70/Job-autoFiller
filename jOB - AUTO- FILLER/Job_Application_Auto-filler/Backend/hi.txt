@@ -1,0 +1,44 @@
+DEEPANSHUJAIN
++91-8890971571#jaindeepu2002@gmail.comïdeepanshu2810§deepanshu2810
+Education
+Indian Institute of Information Technology and Management,GwaliorNovember 2020 – June 2024
+Bachelor of Technology in Computer Science                                                   Overall GPA : 8.17/10
+BLUE HEAVEN VIDYALAYA JAIPURApril 2019 – March 2020
+CBSE-XIIPercentage : 93.6%
+Experience
+GEOSERVICES MARITIME PVT LTD                                          May 2023 - July 2023
+Summer Internship - Web Development
+•Worked as a part of a team responsible for developing a comprehensive software solution for managing various aspects of
+employee information and processes
+•Designed the user interface usingReact.jsby creating interactive and responsive components.
+•Implementing the server-side logic andRESTful APIsusingNode.jsandExpress.js, integrating with aMongoDB
+database to handle employee data.
+Programming Achievements
+•CODEFORCESMAX. RATING- 1675,EXPERT
+•CODECHEFMAX. RATING- 2002,5 STAR
+•LEETCODEMAX. RATING- 2178,GUARDIAN
+•SecuredGLOBAL RANK 301in Codeforces Round 795 out of 15k participants.
+•SecuredGLOBAL RANK 483in Google Kickstart 2022 out of 12.5k participants.  Round C
+•SecuredGLOBAL RANK 5in Codechef Starters 91 Division 2 out of 18k participants.
+•SecuredGLOBAL RANK 258in Leetcode Biweekly Contest 98 out of 22.5k participants.
+•SecuredGLOBAL RANK 148in Google CodeJam Farewell Round B 2023.
+•All India JEE-Advanced Rank6983All India JEE-Mains Rank7053Mains.
+Technical Projects
+Connect-Up:MAY 2023
+•Designed a dynamic and interactive social media platform to connect people.Github
+•Developed by utilizingMongoDB,Express.js,React.js, andNode.js, users have features like follow, unfollow, post,
+edit their profile, and react on each other’s posts with user verification done using theJWTtoken andbcryptmodule.
+•Incorporated interactive chat functionality and real-time conversations with other users using theSocket.io.
+Smart Brain:DEC 2021
+•Recognizes the faces present in a image and also keeps track of them.Github
+•Developed usingReactJSfor frontend,NodeJSfor the backend, andPostgreSQLfor Database.
+•Implemented usingtachyons, tsparticles and Clarifai APIfor face recognition.
+Skills
+Areas of Interest:  Problem Solving, Data Structures and Algorithms, Web Development, Competitive Programming
+Programming Languages:  C++,JavaScript, Python
+Web Development:  HTML, CSS, JavaScript, MongoDB, Express.js, React.js, Node.js
+Miscellaneous Tools:  Git, Github, Latex, Postman
+Relevant Coursework
+•Data Structure and Algorithms•Object Oriented P rogramming
+••DataBase Management System•Operating  System
+----------------Page (0) Break----------------

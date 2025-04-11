@@ -1,0 +1,100 @@
+/* General styling */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f5f5f5;
+  overflow: hidden;
+}
+
+/* Animated gradient background */
+body::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(45deg, #ff9a9e, #fad0c4, #ffecd2, #fcb69f);
+  background-size: 400% 400%;
+  animation: gradientAnimation 15s ease infinite;
+  z-index: -1;
+}
+
+@keyframes gradientAnimation {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+/* Centering the main container */
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+/* Styling the container */
+.container {
+  text-align: center;
+  background-color: rgba(255, 255, 255, 0.9);
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(10px);
+  width: 300px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.container:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.15);
+}
+
+/* Styling the user ID link */
+.ID a {
+  text-decoration: none;
+  font-size: 24px;
+  color: #333333;
+  font-weight: bold;
+  margin-bottom: 20px;
+  display: block;
+  transition: color 0.3s ease;
+}
+
+.ID a:hover {
+  color: #007bff;
+}
+
+/* Styling the button */
+.btn {
+  margin-top: 25px;
+  padding: 12px 24px;
+  font-size: 18px;
+  color: #ffffff;
+  background-color: #007bff;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 6px rgba(0, 123, 255, 0.2);
+}
+
+/* Button hover effect */
+.btn:hover {
+  background-color: #0056b3;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 8px rgba(0, 86, 179, 0.3);
+}
+
+.btn:active {
+  transform: translateY(0);
+  box-shadow: 0 2px 4px rgba(0, 86, 179, 0.3);
+}
